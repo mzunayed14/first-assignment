@@ -1,0 +1,39 @@
+.banner-container{
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+}
+img{
+    width: 500px;
+    height: 650px;
+    margin-top: 70px;
+}
+.content{
+    margin-top: 200px;
+    margin-bottom: 350px;
+    margin-left: 50px;
+
+}
+
+.section-heading{
+    display: flex;
+    width: 608px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 70px;
+    font-weight: 700;
+}
+.section-discription{
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+.section-btn{
+   padding: 20px 43px;
+   border-radius: 5px;
+   background-color: #E55473;
+   color: #FFF;
+   font-size: 20px;
+   font-weight: 700
+   
+}
